@@ -4,7 +4,7 @@
 Curso: 1ACC0216 – Fundamentos de Data Science · NRC 4879 · Ciclo 2026-02
 Profesora: Nérida Isabel Manrique Tunque · Grupo 01
 
----s
+---
 
 ## 1. Objetivo del trabajo
 
